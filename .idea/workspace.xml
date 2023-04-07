@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64b3034f-94a5-4d0e-bfba-523f375869fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/googleTests/EGovTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/googleTests/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/googleTests/UniResult.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IiPWRnRHMr4JTfkoNQ0Kdmlbyi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dhypatel/Desktop/HETVI/TestNG-tutorial&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="googleTests" />
+      <recent name="Orange" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UniResult">
+    <configuration name="EGovTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleTests" />
+      <option name="MAIN_CLASS_NAME" value="googleTests.EGovTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EGovTestCase.EGovTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleTests" />
+      <option name="MAIN_CLASS_NAME" value="googleTests.EGovTestCase" />
+      <option name="METHOD_NAME" value="EGovTestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Email" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleTests" />
+      <option name="MAIN_CLASS_NAME" value="googleTests.Email" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleTests" />
+      <option name="MAIN_CLASS_NAME" value="googleTests.Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniResult" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleTests" />
+      <option name="MAIN_CLASS_NAME" value="googleTests.UniResult" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UniResult" />
+        <item itemvalue="TestNG.Search" />
+        <item itemvalue="TestNG.Email" />
+        <item itemvalue="TestNG.EGovTestCase" />
+        <item itemvalue="TestNG.EGovTestCase.EGovTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64b3034f-94a5-4d0e-bfba-523f375869fd" name="Changes" comment="" />
+      <created>1670661461727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670661461727</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<suite name="Orange Webpage">
+    <test name="Orange Login">
+        <classes>
+            <class name="Orange.LoginPage">
+                <methods>
+                    <include name="LaunchURL"/>
+                    <include name="Login"/>
+                    <include name="Logout"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Orange My Info">
+        <classes>
+            <class name="Orange.LoginPage">
+                <methods>
+                    <include name="LaunchURL"/>
+                    <include name="Login"/>
+                    <include name="NavigateToMyInfo"/>
+                    <include name="Logout"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
